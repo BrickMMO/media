@@ -20,14 +20,9 @@
 | <img src="ev3/brick.jpg" width="60"> | EV3 Hub | Hub with four input ports and four output ports |
 | <img src="ev3/cable.jpeg" width="60"> | Cable | Cable |
 | <img src="ev3/color-sensor.png" width="60"> | Colour Sensor | Detects colour |
-| <img src="ev3/converter.jpeg" width="60"> | Touch Sensor | Push button sensor |
-| <img src="ev3/gyroscope-sensor.png" width="60"> | Touch Sensor | Push button sensor |
-| <img src="ev3/ports-sensors.png" width="60"> | Touch Sensor | Push button sensor |
-| <img src="ev3/servo-motor.jpeg" width="60"> | Touch Sensor | Push button sensor |
-| <img src="ev3/servo-motor.png" width="60"> | Touch Sensor | Push button sensor |
-| <img src="ev3/side-left.png" width="60"> | Touch Sensor | Push button sensor |
-| <img src="ev3/side-right.png" width="60"> | Touch Sensor | Push button sensor |
-| <img src="ev3/sports-motors.png" width="60"> | Touch Sensor | Push button sensor |
+| <img src="ev3/converter.jpeg" width="60"> | Converter | Connects Power Functions sensors and motors to an EV3 hub |
+| <img src="ev3/gyroscope-sensor.png" width="60"> | Gyroscope Sensor | Detects tilt and change in orientation |
+| <img src="ev3/servo-motor.png" width="60"> | Large Motor | Large motor and detects rotation |
 | <img src="ev3/steering-motor.png" width="60"> | Steering Motor | Steeting motor |
 | <img src="ev3/touch-sensor.png" width="60"> | Touch Sensor | Push button sensor |
 | <img src="ev3/untrasonic-sensor.jpeg" width="60"> | Untrasonic Sensor | Infrared receiver and distance sensor |
