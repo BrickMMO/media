@@ -43,7 +43,7 @@
 | <img src="power-functions/remote-small.jpeg" width="60"> | Small Remote | Two switches and four channels | 
 | <img src="power-functions/switch.jpeg" width="60"> | Switch | Three stage switch |
 
-[&#10132; Back to Task List](/)
+[&#10132; Back to List](/media/)
 
 ---
 
