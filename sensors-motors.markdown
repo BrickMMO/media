@@ -39,7 +39,7 @@
 | <img src="power-functions/motor-large.jpg" width="60"> | Large Motor | Large motor |
 | <img src="power-functions/motor-small.jpeg" width="60"> | Small Motor | Small motor |
 | <img src="power-functions/motor-steering.jpeg" width="60"> | Steering Motor | Steeting motor |
-| <img src="power-functions/remote-large.jpeg" width="60"> | Large Remote | Two dies, two buttons, and four channels ||
+| <img src="power-functions/remote-large.jpeg" width="60"> | Large Remote | Two dies, two buttons, and four channels |
 | <img src="power-functions/remote-small.jpeg" width="60"> | Small Remote | Two switches and four channels | 
 | <img src="power-functions/switch.jpeg" width="60"> | Switch | Three stage switch |
 
