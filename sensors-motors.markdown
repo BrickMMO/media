@@ -15,7 +15,23 @@
 
 ## EV3
 
+|   | Name | Description |
+| - | - | - |
+
 ## Power Functions
+
+|   | Name | Description |
+| - | - | - |
+| <img src="power-functions/battery-large.jpeg" width="60"> | Large Battery | Large battery |
+| <img src="power-functions/battery-small.jpeg" width="60"> | 
+| <img src="power-functions/infrarred.jpeg" width="60"> | 
+| <img src="power-functions/lights.jpeg" width="60"> | 
+| <img src="power-functions/motor-large.jpg" width="60"> | 
+| <img src="power-functions/motor-small.jpeg" width="60"> | 
+| <img src="power-functions/motor-steering.jpeg" width="60"> | 
+| <img src="power-functions/remote-large.jpeg" width="60"> | 
+| <img src="power-functions/remote-small.jpeg" width="60"> | 
+| <img src="power-functions/switch.jpeg" width="60"> | 
 
 [&#10132; Back to Task List](/)
 
