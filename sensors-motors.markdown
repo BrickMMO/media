@@ -1,9 +1,13 @@
 
-## Motors
+## Spike
 
-## Sensors
+|   | Name | Description |
+| - | - | - |
+| <img src="spike/color-sensor.png" width="60"> | Colour Sensor | Detects colour |
 
-## Hubs
+## EV3
+
+## Power Functions
 
 [&#10132; Back to Task List](/)
 
