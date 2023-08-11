@@ -23,15 +23,15 @@
 |   | Name | Description |
 | - | - | - |
 | <img src="power-functions/battery-large.jpeg" width="60"> | Large Battery | Large battery |
-| <img src="power-functions/battery-small.jpeg" width="60"> | 
-| <img src="power-functions/infrarred.jpeg" width="60"> | 
-| <img src="power-functions/lights.jpeg" width="60"> | 
-| <img src="power-functions/motor-large.jpg" width="60"> | 
-| <img src="power-functions/motor-small.jpeg" width="60"> | 
-| <img src="power-functions/motor-steering.jpeg" width="60"> | 
-| <img src="power-functions/remote-large.jpeg" width="60"> | 
-| <img src="power-functions/remote-small.jpeg" width="60"> | 
-| <img src="power-functions/switch.jpeg" width="60"> | 
+| <img src="power-functions/battery-small.jpeg" width="60"> | Small Battery | Small battery |
+| <img src="power-functions/infrared.jpeg" width="60"> | Infrared Receiver | Receives infrared signals |
+| <img src="power-functions/lights.jpeg" width="60"> | Lights | Two LED lights |
+| <img src="power-functions/motor-large.jpg" width="60"> | Large Motor | Large motor |
+| <img src="power-functions/motor-small.jpeg" width="60"> | Small Motor | Small motor |
+| <img src="power-functions/motor-steering.jpeg" width="60"> | Steering Motor | Steeting motor |
+| <img src="power-functions/remote-large.jpeg" width="60"> | Large Remote | Two dies, two buttons, and four channels ||
+| <img src="power-functions/remote-small.jpeg" width="60"> | Small Remote | Two switches and four channels | 
+| <img src="power-functions/switch.jpeg" width="60"> | Switch | Three stage switch |
 
 [&#10132; Back to Task List](/)
 
