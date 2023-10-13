@@ -24,9 +24,9 @@
 | <img src="ev3/converter.jpeg" width="60"> | Converter | Connects Power Functions sensors and motors to an EV3 hub |
 | <img src="ev3/gyroscope-sensor.png" width="60"> | Gyroscope Sensor | Detects tilt and change in orientation |
 | <img src="ev3/servo-motor.png" width="60"> | Large Motor | Large motor and detects rotation |
-| <img src="ev3/steering-motor.png" width="60"> | Steering Motor | Steeting motor |
+| <img src="ev3/steering-motor.png" width="60"> | Steering Motor | Steering motor |
 | <img src="ev3/touch-sensor.png" width="60"> | Touch Sensor | Push button sensor |
-| <img src="ev3/untrasonic-sensor.jpeg" width="60"> | Untrasonic Sensor | Infrared receiver and distance sensor |
+| <img src="ev3/ultrasonic-sensor.jpeg" width="60"> | Ultrasonic Sensor | Infrared receiver and distance sensor |
 
 ## Power Functions
 
