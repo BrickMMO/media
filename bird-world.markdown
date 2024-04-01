@@ -1,11 +1,10 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Bird World
+## Hallway
+<img src="bird-world/bird-world-hallway.jpeg" width="600">
 
-|   | Description |
-| - | - |
-|<img src="bird-world/bird-world-hallway.jpeg" width="600">|Hallway|
-|<img src="bird-world/bird-world-side.jpeg" width="600">|Side View|
+## Side View 
+<img src="bird-world/bird-world-side.jpeg" width="600">
 
 [&#10132; Back to List](/media/)
 
