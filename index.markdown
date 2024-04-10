@@ -5,6 +5,7 @@
 This is a repo to store all BrickMMO related media. You can browse the [media]() repo or check out one of the lists below:
 
 - [Hubs, motors, and sensors](sensors-motors)
+- [City Images](city-images)
 
 ---
 
