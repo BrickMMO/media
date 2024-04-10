@@ -2,11 +2,17 @@
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-This is a repo to store all BrickMMO related media. You can browse the [media]() repo or check out one of the lists below:
+This is a repo to store all BrickMMO related media. You can browse the [media](https://github.com/BrickMMO/media) repo or check out one of the lists below:
 
-- [Hubs, motors, and sensors](sensors-motors)
 - [Bird World](bird-world)
-- [City Images](city-images)
+- [Boxes](boxes)
+- [City](city)
+- [Class](class)
+- [Components](components)
+- [Events](class)
+- [GPS](gps)
+- [Hackathons](hackathons)
+- [Logos](logos)
 
 ---
 
