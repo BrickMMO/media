@@ -4,8 +4,8 @@
 
 |   | Name | Description |
 | - | - | - |
-| [<img src="components/spike/color-sensor.png" width="60">](spike/color-sensor.png) | Colour Sensor | Detects colour |
-| [<img src="components/spike/distance-sensor.png" width="60">](spike/distance-sensor.png) | Distance Sensor | Detects distance of item in front |
+| [<img src="components/spike/color-sensor.png" width="60">](components/spike/color-sensor.png) | Colour Sensor | Detects colour |
+| [<img src="components/spike/distance-sensor.png" width="60">](components/spike/distance-sensor.png) | Distance Sensor | Detects distance of item in front |
 | <img src="components/spike/hub-essentials.png" width="60"> | Essentials Hub | Small hub with two ports |
 | <img src="components/spike/hub-prime.jpeg" width="60"> | Prime Hub | Large hub with six ports |
 | <img src="components/spike/hub-robot-inventor.jpeg" width="60"> | Robot Inventor Hub | Large hub with six ports |
