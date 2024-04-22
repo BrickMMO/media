@@ -14,6 +14,7 @@ This is a repo to store all BrickMMO related media. You can browse the [media](h
 - [GPS](gps)
 - [Hackathons](hackathons)
 - [Logos](logos)
+- [Screenshots](screenshots)
 
 ---
 
