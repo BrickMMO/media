@@ -9,6 +9,7 @@ This is a repo to store all BrickMMO related media. You can browse the [media](h
 - [City](city)
 - [Class](class)
 - [Components](components)
+- [Display](display)
 - [Events](class)
 - [GPS](gps)
 - [Hackathons](hackathons)
