@@ -1,20 +1,68 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## City Images
+## Apartment
+<img src="city/city-appartment-1.png" width="600"> 
 
-|   | Description |
-| - | - |
-<img src="city/complete-city-2022-10.jpeg" width="300"> | Complete City | 
-<img src="city/complete-city-2023-02.jpeg" width="300"> | Complete City | 
-<img src="city/complete-city-2023-04.jpeg" width="300"> | Complete City | 
-<img src="city/complete-city-2023-05.jpeg" width="300"> | Complete City | 
-<img src="city/diagon-alley.jpeg" width="300"> | Diagon Valley | 
-<img src="city/foundation.jpeg" width="300"> | Foundation | 
-<img src="city/hotel-pig.jpeg" width="300"> | Hotel Pig | 
-<img src="city/winnie-the-pooh-install.jpeg" width="300"> | Winnie the pooh, installation |
-<img src="city/winnie-the-pooh-birds-eye.jpeg" width="300"> | Winnie the Pooh, bird's eye view |
-<img src="city/winnie-the-pooh-closeup.jpeg" width="300"> | Winnie the Pooh, close up |
+## City Block
+<img src="city/city-block-1.png" width="600"> 
 
+## Daily Bugle
+<img src="city/city-bugle-1.jpg" width="600"> 
+<img src="city/city-bugle-2.jpg" width="600"> 
+<img src="city/city-bugle-3.jpg" width="600"> 
+
+## Diagon Alley
+<img src="city/city-diagon-1.jpg" width="600"> 
+<img src="city/city-diagon-2.jpg" width="600"> 
+<img src="city/diagon-alley.jpeg" width="600"> 
+
+## 12 Grimmauld Place
+<img src="city/city-harry.png" width="600"> 
+
+## Hotel
+<img src="city/city-hotel-1.png" width="600"> 
+<img src="city/city-hotel-2.png" width="600"> 
+<img src="city/city-hotel-3.jpg" width="600"> 
+<img src="city/city-hotel-4.jpg" width="600"> 
+<img src="city/city-hotel-5.jpg" width="600"> 
+<img src="city/city-hotel-6.jpg" width="600"> 
+
+## Police Station
+<img src="city/city-police-1.jpg" width="600"> 
+
+## Pooh's House
+<img src="city/city-pooh-1.jpg" width="600"> 
+<img src="city/city-pooh-2.jpg" width="600"> 
+<img src="city/city-pooh-3.jpg" width="600"> 
+<img src="city/city-pooh-4.jpg" width="600"> 
+<img src="city/city-pooh-5.jpg" width="600"> 
+<img src="city/city-pooh-6.jpg" width="600"> 
+<img src="city/city-pooh-7.jpg" width="600"> 
+
+## City Square
+<img src="city/city-square.png" width="600"> 
+<img src="city/city-square-1.jpg" width="600"> 
+
+## Complete City
+<img src="city/complete-city-2022-10.jpeg" width="600"> 
+<img src="city/complete-city-2023-02.jpeg" width="600"> 
+<img src="city/complete-city-2023-04.jpeg" width="600"> 
+<img src="city/complete-city-2023-05.jpeg" width="600"> 
+<img src="city/complete-city-2024-01.jpg" width="600"> 
+<img src="city/complete-city-2024-02.jpg" width="600"> 
+<img src="city/complete-city-2024-03.jpg" width="600"> 
+<img src="city/complete-city-2024-04.jpg" width="600"> 
+
+## Foundation
+<img src="city/foundation.jpeg" width="600"> 
+<img src="city/foundation-1.jpg" width="600"> 
+<img src="city/foundation-2.jpg" width="600"> 
+<img src="city/foundation-3.jpg" width="600"> 
+<img src="city/foundation-4.jpg" width="600"> 
+
+## Misc.
+<img src="city/city-minifig-1.png" width="600"> 
+<img src="city/hotel-pig.jpeg" width="600"> 
 
 [&#10132; Back to List](/media/)
 
